@@ -58,7 +58,7 @@ export default function ComparacionRISCvsCISC() {
                 </ul>
 
                 <img
-                    src="/images/cisc_instruction.png" // Asegúrate de que esta imagen exista en la ruta indicada
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TEEUz3Z79cR5hnavOEJYx43zdeXvgXS4LFThHoMFhsWy8zQyYBDb5HHvsP3LhCSMGkotUvna277jxc8ktAkOfZ1B7vjs6EGKt_6ysJaIJU30GITf_22vuJi8LvJpf07Ivhu6lEzG6W0/s1520/CISC.png"
                     alt="Ejemplo visual de una instrucción compleja en CISC"
                     className="w-full h-auto max-w-md mx-auto mt-4"
                 />
