@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-// src/components/DispositivosES.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function DispositivosES() {
@@ -137,6 +138,7 @@ export default function DispositivosES() {
                     ofrecer dispositivos de E/S más rápidos, intuitivos y eficientes, adaptándose a las necesidades cambiantes de los usuarios.
                 </p>
             </section>
+            <DocumentButton url="" />
         </div>
     );
 }

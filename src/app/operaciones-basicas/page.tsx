@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/SumaYDesplazamiento.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function SumaYDesplazamiento() {
@@ -154,6 +156,7 @@ export default function SumaYDesplazamiento() {
                     contribuyendo a un diseño más preciso y funcional de sistemas electrónicos.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:w:/g/personal/01220371022_mail_udes_edu_co/Ec_LoYYu8KNJvCfBtGFYQqQB8S2le44Lio3QgMD_hxAFmQ?e=CIRi38" />
         </div>
     );
 }

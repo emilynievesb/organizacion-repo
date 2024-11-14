@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/MemoriasSecundarias.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function MemoriasSecundarias() {
@@ -132,6 +134,7 @@ export default function MemoriasSecundarias() {
                     es clave para sistemas que requieren rapidez y eficiencia.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:u:/g/personal/01220371022_mail_udes_edu_co/EQO4DAz-IbNJtQ02XaSxS-kBURQ753pFNAxjrh-Px70DXw?e=aXcTVs" />
         </div>
     );
 }

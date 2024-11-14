@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/DispositivosRISC.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function DispositivosRISC() {
@@ -129,6 +131,7 @@ export default function DispositivosRISC() {
                     tecnología portátil, Internet de las Cosas (IoT) y dispositivos de bajo consumo.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:p:/g/personal/01220371022_mail_udes_edu_co/EcK6KMak8upCiYxPX4ZlIl8BRzLWouLo3gQxIcRfbhDrpg?e=6EGnHP" />
         </div>
     );
 }

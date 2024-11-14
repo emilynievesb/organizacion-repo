@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/SeleccionGPU.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function SeleccionGPU() {
@@ -118,6 +120,7 @@ export default function SeleccionGPU() {
                     eficiencia del sistema.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:x:/g/personal/01220371022_mail_udes_edu_co/ERBqCmXhEUJMkd3IJgzxAtsB0r-Rs-rQTyt36BPLhqhosQ?e=qnc4kX" />
         </div>
     );
 }

@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/GPUPresupuesto4K.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function GPUPresupuesto4K() {
@@ -154,6 +156,7 @@ export default function GPUPresupuesto4K() {
                     tecnología sea más accesible y alcanzable para una mayor audiencia.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:w:/g/personal/01220371022_mail_udes_edu_co/ERcBzMkw5DNBtlPaw95v6yoBVs7_hqXPYhSd3hfE1bIGuA?e=H3DTIF" />
         </div>
     );
 }

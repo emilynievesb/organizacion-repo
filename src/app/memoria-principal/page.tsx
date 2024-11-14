@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function MemoriaPrincipal() {
@@ -146,6 +148,7 @@ export default function MemoriaPrincipal() {
                     recursos.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:u:/g/personal/01220371022_mail_udes_edu_co/Ef95a3tGRrhEqczCAYWHPygB1ClysgfhS40We-5X96zDkQ?e=0a01Z8" />
         </div>
     );
 }

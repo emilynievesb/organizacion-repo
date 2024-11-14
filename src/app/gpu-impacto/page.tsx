@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/ImpactoNuevasTecnologiasGPU.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function ImpactoNuevasTecnologiasGPU() {
@@ -172,6 +174,7 @@ export default function ImpactoNuevasTecnologiasGPU() {
                     simulación científica y el aprendizaje automático, donde el procesamiento paralelo es crucial.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:w:/g/personal/01220371022_mail_udes_edu_co/EZ1bUg8aBDtAmcn5pEccAtABm-6BKQi9tQT6eThNTGdzzw?e=QcsZzF" />
         </div>
     );
 }

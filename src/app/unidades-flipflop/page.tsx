@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/UnidadesFlipFlop.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function UnidadesFlipFlop() {
@@ -175,6 +177,7 @@ export default function UnidadesFlipFlop() {
                     eficientes y precisos.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:w:/g/personal/01220371022_mail_udes_edu_co/EQify1OVe45Otby3B5LAEN0BT_Jq2yf03s2ctmw8SU1v6Q?e=7GpWDX" />
         </div>
     );
 }

@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 // src/components/ComparacionRISCvsCISC.tsx
+
+import DocumentButton from '../DocumentButton';
 import React from 'react';
 
 export default function ComparacionRISCvsCISC() {
@@ -171,6 +173,7 @@ export default function ComparacionRISCvsCISC() {
                     eficiencia.
                 </p>
             </section>
+            <DocumentButton url="https://mailudesedu-my.sharepoint.com/:p:/g/personal/01220371022_mail_udes_edu_co/EeiqnlIEc5pEowcU69D47t4B8-qzey2SX8JnUHAvQsCUuA?e=iETJp5" />
         </div>
     );
 }
