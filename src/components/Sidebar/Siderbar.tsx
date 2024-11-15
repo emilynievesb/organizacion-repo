@@ -1,4 +1,3 @@
-// src/components/Sidebar.tsx
 'use client';
 
 import * as ScrollArea from '@radix-ui/react-scroll-area';
@@ -15,6 +14,7 @@ const temas = [
     { title: 'GPU - Impacto', href: '/gpu-impacto' },
     { title: 'Unidades Flip Flop', href: '/unidades-flipflop' },
     { title: 'Operaciones Basicas', href: '/operaciones-basicas' },
+    { title: 'Cuestionario final', href: 'https://forms.office.com/r/gvfxsqVT7E?origin=lprLink' },
 ];
 
 export default function Sidebar() {
